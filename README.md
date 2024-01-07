@@ -3,12 +3,12 @@
 
 # Steps included
 
-    understand the business problem<br>
-    importing libraries<br>
-    Database connection to extract data<br>
-    Exploring the tables present in the database to identify key variables<br>
-    Analyzing the key variables<br>
-    Creating report with all the results and analysis for the company.<br>
+* understand the business problem<br>
+* importing libraries<br>
+* Database connection to extract data<br>
+* Exploring the tables present in the database to identify key variables<br>
+* Analyzing the key variables<br>
+* Creating report with all the results and analysis for the company.<br>
 
 # Business Problem:
 
